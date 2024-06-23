@@ -15,7 +15,7 @@ function updateTimeAndDate() {
 }
 
 function updateBackground() {
-    const randomImageUrl = 'https://source.unsplash.com/random';
+    const randomImageUrl = 'https://picsum.photos/1920/1080';
     document.body.style.backgroundImage = `url('${randomImageUrl}')`;
 }
 
